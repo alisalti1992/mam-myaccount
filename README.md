@@ -8,8 +8,9 @@ Stable tag: 1.0
 License: GPLv2  
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html  
 
-a Wordpress plugin creates a shortcode [mam-myaccount] to add Woocommerce Sing In / Register / My Account button.
-Uses Custom Fields and preffeerbally to use with Font Awesome.
+a WordPress plugin creates a shortcode [mam-my-account] to add Woocommerce Sing In / Register / My Account button.
+Uses Custom Fields and preferably to use with Font Awesome.
+Requires WooCommerce
 
 ##== Description ==  
 Coming Soon  
@@ -24,7 +25,7 @@ Coming Soon
 
 
 ##== Frequently Asked Questions ==
-No FAQs at the moment, feel free to discuss issues here: https://github.com/moveaheadmedia/mam-myaccount
+No FAQs at the moment, feel free to discuss issues here: https://github.com/moveaheadmedia/mam-myaccount/issues
 
 ##== Screenshots ==
 1. Coming Soon
